@@ -57,3 +57,5 @@ however, the `if let` thus comes with its own drawbacks.
 With `if let` Rust will not perform any exhaustive checking.
 
 # Packages and Crates
+
+*Note*: I have stopped reading about Rust for a while, it is indefinite when I will get back on track with these notes :)
