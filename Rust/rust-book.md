@@ -16,9 +16,9 @@ according to its size.
 
 This is accomplished with `match`.
 
-*Enum VS Struct*
-A  Struct is like - AND
-An Enum   is like - OR
+*Enum VS Struct*  
+A  Struct is like - AND  
+An Enum   is like - OR  
 
 When a Struct is defined and an instance is created it has to has all the
 keys provided in the struture of the struct.
