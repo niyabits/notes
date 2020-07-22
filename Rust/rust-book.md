@@ -30,3 +30,6 @@ the coin example.
 Matches are exhaustive, if we forget to handle a case with match, for e.g. - using some and forgeting a case like none then the Rust compiler will throw an error.
 
 Rust knows that we didn't cover every case, match requires us to exhaust every possibility before moving on.
+
+## Concise Control Flow with If Let
+
