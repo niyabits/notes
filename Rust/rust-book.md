@@ -49,9 +49,11 @@ We can use `if let` instead.
 if let Some(3) = some_u8_value {
         println!('Three')
     }
-
+```
 we can also use `else {}` with if let to handle rest of the cases, 
 
 however, the `if let` thus comes with its own drawbacks.
 
 With `if let` Rust will not perform any exhaustive checking.
+
+
